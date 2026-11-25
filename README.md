@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0048-rotate-image) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0045-jump-game-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
