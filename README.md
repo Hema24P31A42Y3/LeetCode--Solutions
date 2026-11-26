@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
