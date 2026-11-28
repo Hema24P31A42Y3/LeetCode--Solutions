@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Hema24P31A42Y3/LeetCode--Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
